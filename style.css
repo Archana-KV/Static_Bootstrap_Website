@@ -1,0 +1,10 @@
+.navbar-light .navbar-brand {
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+.nav-link{
+    color: #fff !important;
+}
